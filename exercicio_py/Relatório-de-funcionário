@@ -1,0 +1,5 @@
+nome = input('qual e seu nome : ')
+idade = int(input('qual e sua idade : '))
+salario = int(input('qual e seu salario : '))
+
+print(f'funcionario {nome} tem {idade} anos e ganha R${salario} ')
