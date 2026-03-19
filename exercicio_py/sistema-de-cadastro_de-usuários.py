@@ -1,4 +1,5 @@
 while True:
+    
     nome = input("Digite seu nome: ")
     email = input("Digite seu email: ")
     senha = input("Digite sua senha: ")
