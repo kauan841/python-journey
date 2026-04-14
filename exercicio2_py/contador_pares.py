@@ -6,5 +6,6 @@ def contar_pares(*args):
     return quantidade_pares
 
 
+
 resultado = contar_pares(1, 2, 3, 4, 5, 6)
 print(resultado)
