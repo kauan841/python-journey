@@ -118,7 +118,7 @@ Tento commitar com mensagens descritivas para documentar meu progresso.
 ## 👨‍💻 Autor
 
 **Kauan Moreas**
-16 anos • Estudante de Python • Futuro dev Back-End 🚀
+16 anos • Estudante de Python • Futuro dev Back-End 🚀.
 
 [![GitHub](https://img.shields.io/badge/GitHub-kauan841-181717?style=flat&logo=github)](https://github.com/kauan841)
 
