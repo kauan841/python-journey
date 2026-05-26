@@ -1,3 +1,5 @@
+# ignore the .vscode folder and its contents
 .vscode
 vscode /
 settings.json
+
